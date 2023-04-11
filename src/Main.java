@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Interfaz b = new Interfaz();
         //Titulo del JFrame
-        b.setTitle("Browser GPT");
+        b.setTitle("Navegador");
         //Tamanio del JFrame
         b.setSize(300, 400);
         //Hace visible el browser (JFrame)
